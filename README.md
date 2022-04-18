@@ -23,9 +23,6 @@
 * [MVVM Architecture](https://developer.android.com/jetpack/guide) (Model -View - ViewModel)
 
 
-# Created By Emirhan Temizyürek
-
-
 
 
 
